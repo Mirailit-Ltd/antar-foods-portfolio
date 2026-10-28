@@ -5,11 +5,10 @@ import { Icon } from "./Sprite";
 
 export function ProductCard({ product, index, headingLevel = 3 }: { product: Product; index?: number; headingLevel?: 2 | 3 }) {
   const H = `h${headingLevel}` as const;
-  const tall = product.images[0] && /gur|jar/.test(product.images[0]);
   return (
     <article className="pcard" style={{ "--c1": product.theme.c1, "--c2": product.theme.c2 } as React.CSSProperties} data-cursor="Taste">
       {index !== undefined && <span className="pcard__num">{String(index + 1).padStart(2, "0")}</span>}
-      <div className={`pcard__media${tall ? " pcard__media--tall" : ""}`}>
+      <div className="pcard__media">
         <Image src={product.images[0]} alt={`Antar ${product.name}`} fill sizes="(max-width: 760px) 92vw, 420px" />
       </div>
       <div className="pcard__body">

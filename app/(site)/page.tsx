@@ -159,7 +159,7 @@ export default function HomePage() {
               src="/images/hero-puffed-rice.png"
               alt="Antar Puffed Rice 400g bag"
               fill
-              sizes="(max-width: 900px) 52vw, 340px"
+              sizes="(max-width: 900px) 90vw, 620px"
               priority
             />
           </figure>
@@ -168,7 +168,7 @@ export default function HomePage() {
               src="/images/hero-khejur-gur.png"
               alt="Antar Premium Khejur Patali Gur jar"
               fill
-              sizes="(max-width: 900px) 30vw, 280px"
+              sizes="(max-width: 900px) 60vw, 420px"
               priority
             />
           </figure>
@@ -177,7 +177,7 @@ export default function HomePage() {
               src="/images/hero-plain-paratha.png"
               alt="Antar Plain Paratha pack"
               fill
-              sizes="(max-width: 900px) 34vw, 220px"
+              sizes="(max-width: 900px) 50vw, 320px"
               priority
             />
           </figure>
@@ -343,7 +343,7 @@ export default function HomePage() {
                   src={featured.images[0] ?? featured.images[1]}
                   alt={`Antar ${featured.name} front of pack`}
                   fill
-                  sizes="(max-width: 950px) 44vw, 270px"
+                  sizes="(max-width: 900px) 90vw, 620px"
                 />
               </div>
               <Icon name="grain" className="spotlight__grain g1" />
@@ -506,7 +506,7 @@ export default function HomePage() {
           <figure className="gimg gimg--tall" data-cursor="Look">
             <div className="gimg__inner">
               <Image
-                src="/images/lineup.webp"
+                src="/images/all_items.jpg"
                 alt="The Antar product lineup on a supermarket display"
                 width={1122}
                 height={1430}
@@ -520,7 +520,7 @@ export default function HomePage() {
           <figure className="gimg" data-cursor="Look">
             <div className="gimg__inner">
               <Image
-                src="/images/puffed-rice-pack.webp"
+                src="/images/puffed_rice.jpg"
                 alt="Antar Puffed Rice front and back of pack"
                 width={1448}
                 height={1086}
@@ -532,7 +532,7 @@ export default function HomePage() {
           <figure className="gimg" data-cursor="Look">
             <div className="gimg__inner">
               <Image
-                src="/images/hero-products.webp"
+                src="/images/frozen_items.jpg"
                 alt="Antar frozen snacks and patali gur"
                 width={1020}
                 height={583}

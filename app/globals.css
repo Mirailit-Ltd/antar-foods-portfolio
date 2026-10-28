@@ -594,10 +594,11 @@ svg {
     0 0 0 6px rgba(255, 255, 255, 0.9); */
   background: transparent;
 }
+/* Transparent pack shots: show the whole pack inside its box, never crop it */
 .pack img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 .pack--bag {
   width: 95%;
@@ -988,14 +989,12 @@ svg {
   display: grid;
   place-items: center;
 }
+/* Product shots are transparent PNGs with their own margin: show the whole pack, never crop it */
 .pcard__media img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   transition: transform 0.8s var(--ease);
-}
-.pcard__media--tall img {
-  object-fit: cover;
 }
 .pcard:hover .pcard__media img {
   transform: scale(1.07);
@@ -1635,7 +1634,7 @@ svg {
   outline-offset: 4px;
 }
 .spotlight__pack img {
-  object-fit: cover;
+  object-fit: contain;
 }
 .spotlight__cta {
   margin-top: 30px;
