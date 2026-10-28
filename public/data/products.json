@@ -1,0 +1,1169 @@
+{
+  "products": [
+    {
+      "id": "e472afd4-6cc1-5f19-b6bc-b911c040b1c7",
+      "slug": "puffed-rice",
+      "order": 1,
+      "published": true,
+      "featured": true,
+      "name": "Puffed Rice",
+      "nameJp": "ポン菓子",
+      "nameBn": "মুড়ি",
+      "category": "Snacks",
+      "shortDescription": "Light, airy and crunchy — naturally puffed long-grain brown rice with just a pinch of salt.",
+      "description": "Just two ingredients: natural long-grain brown rice and salt. Puffed to a perfect crunch and ready for jhal muri, chaat or straight from the bag.\n\nA staple of Bangladeshi tea time, Antar Puffed Rice is naturally puffed — never fried — so it stays light while keeping the toasty flavour of the grain.",
+      "images": ["/products/puffed_rice.png"],
+      "variants": [
+        {
+          "label": "200g",
+          "image": "/products/puffed-rice-200.webp"
+        },
+        {
+          "label": "400g",
+          "image": "/products/puffed-rice-400.webp"
+        }
+      ],
+      "tags": ["200g", "400g", "Snack"],
+      "theme": {
+        "c1": "#FFE9E4",
+        "c2": "#FFD2C7",
+        "icon": "grain"
+      },
+      "preparation": [
+        {
+          "method": "ready-to-eat",
+          "steps": "Enjoy straight from the bag, or toss with chopped onion, chilli, mustard oil and lemon for classic jhal muri."
+        },
+        {
+          "method": "pan",
+          "time": "1–2 min",
+          "steps": "If it has softened after opening, dry-roast in a pan over low heat, stirring constantly, to bring back the crunch."
+        }
+      ],
+      "benefits": [
+        "Naturally puffed, never fried",
+        "Only two ingredients: brown rice and salt",
+        "Light, low-fat snack",
+        "Halal certified · Export quality"
+      ],
+      "storage": "Store in a cool, dry place. Reseal after opening.",
+      "nutrition": {
+        "basis": "Average quantities per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "378 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "10.3g"
+          },
+          {
+            "label": "Total fat",
+            "value": "1.4g"
+          },
+          {
+            "label": "Added sugar",
+            "value": "0g"
+          }
+        ]
+      },
+      "ingredients": "Long-grain brown rice, salt.",
+      "recipes": [
+        {
+          "title": "Classic Jhal Muri",
+          "time": "10 mins",
+          "servings": "2",
+          "summary": "Kolkata and Dhaka's favourite street snack — spicy, tangy and ready in minutes.",
+          "ingredients": [
+            "3 cups Antar Puffed Rice",
+            "1 small onion, finely chopped",
+            "1 green chilli, finely chopped",
+            "1 small tomato, chopped",
+            "1 tbsp mustard oil",
+            "Juice of half a lemon",
+            "Handful of roasted peanuts",
+            "Chopped coriander",
+            "Chaat masala and salt to taste"
+          ],
+          "steps": [
+            "Add the puffed rice to a large bowl.",
+            "Add onion, chilli, tomato, peanuts and coriander.",
+            "Drizzle over the mustard oil and lemon juice, then sprinkle with chaat masala and salt.",
+            "Toss quickly and serve straight away while it's crunchy."
+          ]
+        },
+        {
+          "title": "Muri Moa (Puffed Rice & Gur Balls)",
+          "time": "25 mins",
+          "servings": "12 balls",
+          "summary": "A Bengali winter sweet — crunchy puffed rice bound with melted date-palm jaggery.",
+          "ingredients": [
+            "4 cups Antar Puffed Rice",
+            "200g Antar Premium Khejur Patali Gur, chopped",
+            "2 tbsp water",
+            "1 tsp ghee or oil for your hands"
+          ],
+          "steps": [
+            "Melt the gur with the water in a wide pan over low heat until it bubbles and thickens slightly.",
+            "Take off the heat, add the puffed rice and stir quickly until every grain is coated.",
+            "Grease your hands and press small handfuls into firm balls while the mixture is still warm.",
+            "Leave to cool and set, then store in an airtight jar."
+          ]
+        },
+        {
+          "title": "Puffed Rice Chaat",
+          "time": "10 mins",
+          "servings": "2",
+          "summary": "A sweet, tangy, crunchy chaat with yogurt and chutneys.",
+          "ingredients": [
+            "2 cups Antar Puffed Rice",
+            "1 boiled potato, diced",
+            "3 tbsp plain yogurt, whisked",
+            "2 tbsp tamarind chutney",
+            "1 tbsp green chutney",
+            "Chopped onion and coriander",
+            "Chaat masala and roasted cumin powder"
+          ],
+          "steps": [
+            "Mix the puffed rice, potato and onion in a bowl.",
+            "Spoon over the yogurt and both chutneys.",
+            "Finish with chaat masala, cumin and coriander.",
+            "Serve immediately before the puffed rice softens."
+          ]
+        }
+      ],
+      "hacks": [
+        {
+          "title": "Mix just before serving",
+          "body": "Puffed rice soaks up moisture fast. Add wet ingredients like lemon, tomato or chutney at the very last moment to keep every bite crunchy."
+        },
+        {
+          "title": "Crisp it up again",
+          "body": "If an open bag has gone soft, a minute or two in a dry pan over low heat (or 3 minutes in a 150°C oven) brings the crunch right back."
+        },
+        {
+          "title": "Keep it airtight",
+          "body": "Once opened, tip the rest into an airtight jar or clip the bag tightly and keep it away from the stove and kettle steam."
+        }
+      ],
+      "whereToBuy": [
+        {
+          "name": "Shinjuku Halal Food",
+          "url": "https://shinjukuhalalfood.com"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is Antar Puffed Rice fried?",
+          "answer": "No. It is naturally puffed from long-grain brown rice, with only a pinch of salt added."
+        },
+        {
+          "question": "What is the difference between muri and ポン菓子?",
+          "answer": "Both are puffed rice. Bangladeshi muri is lightly salted and used in savoury snacks like jhal muri, while Japanese ポン菓子 is usually sweetened. Antar Puffed Rice is the classic salted muri."
+        },
+        {
+          "question": "How long does it stay fresh after opening?",
+          "answer": "Kept airtight in a cool, dry place it stays crunchy for about two weeks."
+        },
+        {
+          "question": "Is it halal?",
+          "answer": "Yes. Every Antar product is halal certified and made without harmful preservatives."
+        }
+      ],
+      "seo": {
+        "title": "Antar Puffed Rice (Muri) — Halal Bangladeshi Snack in Japan",
+        "description": "Naturally puffed long-grain brown rice with just a pinch of salt. Never fried, perfect for jhal muri and chaat. 200g & 400g packs, halal certified."
+      },
+      "shelfLife": "6 months (unopened)",
+      "allergens": "None of the major allergens. Packed in a facility that also handles wheat."
+    },
+    {
+      "id": "71a4f7d9-8ffe-5822-af52-2431d12ba61b",
+      "slug": "punjabi-aloo-samosa",
+      "order": 2,
+      "published": true,
+      "featured": false,
+      "name": "Punjabi Aloo Samosa",
+      "nameJp": "パンジャビアルーサモサ",
+      "category": "Frozen Snacks",
+      "badge": "Hot & Spicy",
+      "shortDescription": "Flaky golden pastry packed with spiced potato and a fiery chilli kick.",
+      "description": "Flaky golden pastry packed with spiced potato and a fiery chilli kick. A Punjabi-style samosa made for those who like their snacks hot.\n\nEach box holds 10 generous samosas, ready to fry straight from the freezer — perfect for iftar, parties or an evening snack with chai.",
+      "images": ["/products/punjabi_aloo_samosa.png"],
+      "variants": [
+        {
+          "label": "10 pcs · 750g"
+        }
+      ],
+      "tags": ["10 pcs", "750g", "Frozen"],
+      "theme": {
+        "c1": "#FFE4D6",
+        "c2": "#FFC9A8",
+        "icon": "chili"
+      },
+      "preparation": [
+        {
+          "method": "deep-fry",
+          "time": "5–6 min",
+          "steps": "Do not thaw. Heat oil to 170–175°C and fry from frozen, turning once, until deep golden and crisp. Drain on kitchen paper."
+        },
+        {
+          "method": "air-fry",
+          "time": "12–14 min",
+          "steps": "Preheat the air fryer to 180°C. Lightly brush or spray with oil, cook in a single layer and turn halfway through."
+        },
+        {
+          "method": "oven",
+          "time": "18–20 min",
+          "steps": "Preheat the oven to 200°C. Place on a lined tray, brush lightly with oil and bake, turning halfway, until golden."
+        }
+      ],
+      "benefits": [
+        "Bold Punjabi-style spice with a chilli kick",
+        "Generous, hearty potato filling",
+        "Cook straight from frozen — no thawing",
+        "Halal certified · No harmful preservatives"
+      ],
+      "storage": "Keep frozen at -18°C or below",
+      "recipes": [
+        {
+          "title": "Samosa Chaat",
+          "time": "15 mins",
+          "servings": "2–3",
+          "summary": "Crushed samosas loaded with chickpeas, yogurt and chutneys — a street-food favourite.",
+          "ingredients": [
+            "4 Antar Punjabi Aloo Samosas",
+            "1 cup cooked chickpeas, warmed",
+            "1/2 cup plain yogurt, whisked",
+            "3 tbsp tamarind chutney",
+            "2 tbsp green chutney",
+            "1 small onion, finely chopped",
+            "Chaat masala, red chilli powder and coriander"
+          ],
+          "steps": [
+            "Fry or air-fry the samosas until crisp.",
+            "Break them roughly onto a plate and top with the warm chickpeas.",
+            "Spoon over yogurt, then drizzle both chutneys.",
+            "Finish with onion, chaat masala, chilli powder and coriander. Serve straight away."
+          ]
+        },
+        {
+          "title": "Samosa Pav",
+          "time": "15 mins",
+          "servings": "4",
+          "summary": "Mumbai-style samosa sandwich in a soft bun with spicy chutney.",
+          "ingredients": [
+            "4 Antar Punjabi Aloo Samosas",
+            "4 soft burger buns or pav",
+            "Green chutney",
+            "Tamarind chutney",
+            "Sliced onion"
+          ],
+          "steps": [
+            "Cook the samosas until golden.",
+            "Slice the buns, spread one side with green chutney and the other with tamarind chutney.",
+            "Press a hot samosa inside, add onion and close.",
+            "Serve warm with a cup of tea."
+          ]
+        }
+      ],
+      "hacks": [
+        {
+          "title": "Never thaw before frying",
+          "body": "Frying from frozen keeps the pastry flaky and stops the filling leaking. Thawed samosas soak up oil and go soggy."
+        },
+        {
+          "title": "Don't crowd the pan",
+          "body": "Fry 4–5 at a time so the oil stays hot. Too many at once drops the temperature and makes them greasy."
+        },
+        {
+          "title": "Too spicy? Add yogurt",
+          "body": "Serve with a bowl of cool yogurt raita or a sweet tamarind chutney to balance the chilli heat."
+        }
+      ],
+      "whereToBuy": [
+        {
+          "name": "Shinjuku Halal Food",
+          "url": "https://shinjukuhalalfood.com"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How spicy is the Punjabi Aloo Samosa?",
+          "answer": "It is our hottest samosa, with a noticeable green-chilli kick. For a milder taste, try the Antar Vegetable Samosa."
+        },
+        {
+          "question": "Can I cook it without deep-frying?",
+          "answer": "Yes. It crisps up well in an air fryer at 180°C for 12–14 minutes or in the oven at 200°C for 18–20 minutes with a light brush of oil."
+        },
+        {
+          "question": "Is it vegetarian?",
+          "answer": "Yes. The filling is potato, onion and spices, with no meat."
+        },
+        {
+          "question": "Is it halal?",
+          "answer": "Yes. Every Antar product is halal certified and made without harmful preservatives."
+        }
+      ],
+      "seo": {
+        "title": "Punjabi Aloo Samosa — Hot & Spicy Frozen Samosa | Antar",
+        "description": "Flaky pastry with a spicy potato filling. 10 frozen Punjabi aloo samosas (750g), ready to fry, air-fry or bake. Halal certified, available in Japan."
+      },
+      "shelfLife": "12 months (frozen)",
+      "ingredients": "Pastry: wheat flour, vegetable oil, salt, carom seeds (ajwain). Filling: potato, onion, green chilli, coriander leaves, ginger, vegetable oil, salt, spices (cumin, coriander, red chilli, garam masala), dried mango powder.",
+      "allergens": "Contains wheat (gluten).",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "265 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "5.2g"
+          },
+          {
+            "label": "Total fat",
+            "value": "12.8g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "32.5g"
+          },
+          {
+            "label": "Sugars",
+            "value": "2.1g"
+          },
+          {
+            "label": "Dietary fibre",
+            "value": "2.8g"
+          },
+          {
+            "label": "Sodium",
+            "value": "480mg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4b00361c-d0d2-5ed6-a4a2-c4a83ef6442b",
+      "slug": "vegetable-samosa",
+      "order": 3,
+      "published": true,
+      "featured": false,
+      "name": "Vegetable Samosa",
+      "nameJp": "ベジタブルサモサ",
+      "category": "Frozen Snacks",
+      "shortDescription": "Crisp triangles filled with garden vegetables and warm, gentle spices.",
+      "description": "Crisp triangles filled with garden vegetables and warm, gentle spices — a mild, crowd-pleasing samosa for the whole family.\n\nPotato, green peas and carrot are folded into a thin, crunchy pastry, so every bite is light and golden. Ready in minutes from the freezer.",
+      "images": ["/products/vegetable_samosa.png"],
+      "variants": [
+        {
+          "label": "10 pcs · 400g"
+        }
+      ],
+      "tags": ["10 pcs", "400g", "Frozen"],
+      "theme": {
+        "c1": "#FFF0D9",
+        "c2": "#FFDFA6",
+        "icon": "samosa"
+      },
+      "preparation": [
+        {
+          "method": "deep-fry",
+          "time": "4–5 min",
+          "steps": "Do not thaw. Heat oil to 170–175°C and fry from frozen, turning once, until deep golden and crisp. Drain on kitchen paper."
+        },
+        {
+          "method": "air-fry",
+          "time": "10–12 min",
+          "steps": "Preheat the air fryer to 180°C. Lightly brush or spray with oil, cook in a single layer and turn halfway through."
+        },
+        {
+          "method": "oven",
+          "time": "15–18 min",
+          "steps": "Preheat the oven to 200°C. Place on a lined tray, brush lightly with oil and bake, turning halfway, until golden."
+        }
+      ],
+      "benefits": [
+        "Mild spice the whole family enjoys",
+        "Mixed vegetable filling",
+        "Cook straight from frozen — no thawing",
+        "Halal certified · No harmful preservatives"
+      ],
+      "storage": "Keep frozen at -18°C or below",
+      "recipes": [
+        {
+          "title": "Samosa with Mint-Coriander Chutney",
+          "time": "15 mins",
+          "servings": "3–4",
+          "summary": "The classic pairing — crisp samosas with a fresh, zingy green chutney.",
+          "ingredients": [
+            "10 Antar Vegetable Samosas",
+            "1 cup coriander leaves",
+            "1/2 cup mint leaves",
+            "1 green chilli",
+            "Juice of 1 lemon",
+            "1/2 tsp cumin",
+            "Salt to taste",
+            "2–3 tbsp water"
+          ],
+          "steps": [
+            "Blend the coriander, mint, chilli, lemon juice, cumin and salt with a little water until smooth.",
+            "Fry, air-fry or bake the samosas until golden.",
+            "Serve hot with the chutney for dipping."
+          ]
+        },
+        {
+          "title": "Lunchbox Samosa Wrap",
+          "time": "10 mins",
+          "servings": "2",
+          "summary": "A quick wrap for school or work lunches.",
+          "ingredients": [
+            "4 Antar Vegetable Samosas",
+            "2 flatbreads or Antar Plain Parathas",
+            "Shredded lettuce",
+            "Sliced cucumber and tomato",
+            "2 tbsp yogurt mixed with a pinch of salt and cumin"
+          ],
+          "steps": [
+            "Cook the samosas and the flatbreads.",
+            "Spread the yogurt sauce over each flatbread.",
+            "Add lettuce, cucumber, tomato and two lightly crushed samosas.",
+            "Roll up tightly and cut in half."
+          ]
+        }
+      ],
+      "hacks": [
+        {
+          "title": "Reheat in the air fryer",
+          "body": "Leftover cooked samosas come back crisp in 3–4 minutes at 180°C in the air fryer. The microwave makes the pastry soft."
+        },
+        {
+          "title": "Party prep",
+          "body": "Fry a batch ahead, then keep them warm and crisp on a rack in a 100°C oven for up to 30 minutes."
+        }
+      ],
+      "whereToBuy": [
+        {
+          "name": "Shinjuku Halal Food",
+          "url": "https://shinjukuhalalfood.com"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is the Vegetable Samosa spicy?",
+          "answer": "No, it is gently spiced and mild enough for children. If you like heat, try the Punjabi Aloo Samosa."
+        },
+        {
+          "question": "Is it vegetarian?",
+          "answer": "Yes. The filling is made with vegetables and spices only."
+        },
+        {
+          "question": "Do I need to thaw it?",
+          "answer": "No. Cook it straight from frozen for the crispiest result."
+        },
+        {
+          "question": "Is it halal?",
+          "answer": "Yes. Every Antar product is halal certified and made without harmful preservatives."
+        }
+      ],
+      "seo": {
+        "title": "Vegetable Samosa — Mild Frozen Samosa, 10 pcs | Antar",
+        "description": "Crisp samosas filled with potato, peas and carrot. Mildly spiced and family friendly. 10 pcs (400g), cook from frozen. Halal certified, available in Japan."
+      },
+      "shelfLife": "12 months (frozen)",
+      "ingredients": "Pastry: wheat flour, vegetable oil, salt. Filling: potato, green peas, carrot, onion, vegetable oil, coriander leaves, ginger, salt, spices (cumin, coriander, turmeric, garam masala).",
+      "allergens": "Contains wheat (gluten).",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "248 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "5.0g"
+          },
+          {
+            "label": "Total fat",
+            "value": "11.2g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "31.4g"
+          },
+          {
+            "label": "Sugars",
+            "value": "2.6g"
+          },
+          {
+            "label": "Dietary fibre",
+            "value": "3.1g"
+          },
+          {
+            "label": "Sodium",
+            "value": "420mg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1d584391-1933-51a9-b54f-25cbdc1fa4f5",
+      "slug": "vegetable-singara",
+      "order": 4,
+      "published": true,
+      "featured": false,
+      "name": "Vegetable Singara",
+      "nameJp": "ベジタブルシンガラ",
+      "nameBn": "সিঙ্গারা",
+      "category": "Frozen Snacks",
+      "shortDescription": "Bengal's favourite tea-time bite — a hand-folded, crunchy shell with a hearty veg filling.",
+      "description": "Bengal's favourite tea-time bite — a hand-folded, crunchy shell with a hearty vegetable filling, just like the ones from the corner tea stall back home.\n\nSingara has a thicker, crunchier crust than a samosa and a soft, spiced potato filling. Fry it from frozen and serve with hot tea.",
+      "images": ["/products/vegetable_singara.png"],
+      "variants": [
+        {
+          "label": "10 pcs · 300g"
+        }
+      ],
+      "tags": ["10 pcs", "300g", "Frozen"],
+      "theme": {
+        "c1": "#FFEFE0",
+        "c2": "#F9D3B0",
+        "icon": "samosa"
+      },
+      "preparation": [
+        {
+          "method": "deep-fry",
+          "time": "5–6 min",
+          "steps": "Do not thaw. Heat oil to 170–175°C and fry from frozen, turning once, until deep golden and crisp. Drain on kitchen paper."
+        },
+        {
+          "method": "air-fry",
+          "time": "12–14 min",
+          "steps": "Preheat the air fryer to 180°C. Lightly brush or spray with oil, cook in a single layer and turn halfway through."
+        },
+        {
+          "method": "oven",
+          "time": "18–20 min",
+          "steps": "Preheat the oven to 200°C. Place on a lined tray, brush lightly with oil and bake, turning halfway, until golden."
+        }
+      ],
+      "benefits": [
+        "Authentic Bengali tea-stall taste",
+        "Thick, extra-crunchy crust",
+        "Cook straight from frozen — no thawing",
+        "Halal certified · No harmful preservatives"
+      ],
+      "storage": "Keep frozen at -18°C or below",
+      "recipes": [
+        {
+          "title": "Singara with Tamarind Chutney",
+          "time": "20 mins",
+          "servings": "3–4",
+          "summary": "The tea-stall classic: hot singara with a sweet and sour tamarind dip.",
+          "ingredients": [
+            "10 Antar Vegetable Singaras",
+            "2 tbsp tamarind paste",
+            "3 tbsp Antar Khejur Patali Gur or brown sugar",
+            "1/2 cup water",
+            "1/2 tsp roasted cumin powder",
+            "Pinch of red chilli powder and salt"
+          ],
+          "steps": [
+            "Simmer the tamarind, gur and water for 5–6 minutes until glossy and slightly thick.",
+            "Stir in the cumin, chilli and salt, then let it cool.",
+            "Fry the singaras from frozen until deep golden.",
+            "Serve hot with the chutney and a cup of milk tea."
+          ]
+        },
+        {
+          "title": "Singara Chaat",
+          "time": "15 mins",
+          "servings": "2",
+          "summary": "Crushed singara topped with chickpeas, onion and tangy chutney.",
+          "ingredients": [
+            "4 Antar Vegetable Singaras",
+            "1/2 cup cooked chickpeas",
+            "1 small onion, chopped",
+            "1 green chilli, chopped",
+            "2 tbsp tamarind chutney",
+            "Chaat masala and coriander"
+          ],
+          "steps": [
+            "Cook the singaras until crisp and break them into pieces on a plate.",
+            "Top with chickpeas, onion and chilli.",
+            "Drizzle with tamarind chutney and sprinkle with chaat masala and coriander."
+          ]
+        }
+      ],
+      "hacks": [
+        {
+          "title": "Low and slow for the crunch",
+          "body": "Singara has a thicker crust than samosa. Fry at a slightly lower heat (around 165–170°C) so the shell cooks through and turns extra crunchy."
+        },
+        {
+          "title": "The perfect pairing",
+          "body": "In Bangladesh singara is eaten with strong milk tea. A hot cup of chai makes it taste just like the tea stall."
+        }
+      ],
+      "whereToBuy": [
+        {
+          "name": "Shinjuku Halal Food",
+          "url": "https://shinjukuhalalfood.com"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is the difference between singara and samosa?",
+          "answer": "Singara is the Bengali version: the pastry is thicker and crunchier, the shape is more rounded, and the filling usually includes soft potato with panch phoron spices."
+        },
+        {
+          "question": "Is it vegetarian?",
+          "answer": "Yes. The filling is potato, peas and spices."
+        },
+        {
+          "question": "Is it halal?",
+          "answer": "Yes. Every Antar product is halal certified and made without harmful preservatives."
+        }
+      ],
+      "seo": {
+        "title": "Vegetable Singara — Bengali Tea-Time Snack, Frozen | Antar",
+        "description": "Authentic Bangladeshi singara with a crunchy hand-folded crust and spiced vegetable filling. 10 pcs (300g), cook from frozen. Halal certified, in Japan."
+      },
+      "shelfLife": "12 months (frozen)",
+      "ingredients": "Pastry: wheat flour, vegetable oil, salt, nigella seeds (kalonji). Filling: potato, green peas, onion, vegetable oil, green chilli, coriander leaves, salt, spices (cumin, turmeric, red chilli, panch phoron).",
+      "allergens": "Contains wheat (gluten).",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "272 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "5.4g"
+          },
+          {
+            "label": "Total fat",
+            "value": "13.5g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "32.8g"
+          },
+          {
+            "label": "Sugars",
+            "value": "1.9g"
+          },
+          {
+            "label": "Dietary fibre",
+            "value": "2.9g"
+          },
+          {
+            "label": "Sodium",
+            "value": "450mg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f6f0e6d0-2042-5b45-8f90-552d3037bf98",
+      "slug": "vegetable-spring-roll",
+      "order": 5,
+      "published": true,
+      "featured": false,
+      "name": "Vegetable Spring Roll",
+      "nameJp": "ベジタブルスプリングロール",
+      "category": "Frozen Snacks",
+      "shortDescription": "Golden, shatter-crisp rolls stuffed with fresh vegetables. Fry, dip, repeat.",
+      "description": "Golden, shatter-crisp rolls stuffed with fresh vegetables. Fry, dip, repeat.\n\nThin wrappers are rolled around a lightly seasoned filling of cabbage, carrot and onion, so they turn crisp and golden in minutes — ideal for parties, lunchboxes and iftar.",
+      "images": ["/products/vegetable_spring_roll.png"],
+      "variants": [
+        {
+          "label": "10 pcs · 400g"
+        }
+      ],
+      "tags": ["10 pcs", "400g", "Frozen"],
+      "theme": {
+        "c1": "#EAF5E2",
+        "c2": "#CFE9BD",
+        "icon": "leaf"
+      },
+      "preparation": [
+        {
+          "method": "deep-fry",
+          "time": "4–5 min",
+          "steps": "Do not thaw. Heat oil to 170–175°C and fry from frozen, turning once, until deep golden and crisp. Drain on kitchen paper."
+        },
+        {
+          "method": "air-fry",
+          "time": "10–12 min",
+          "steps": "Preheat the air fryer to 180°C. Lightly brush or spray with oil, cook in a single layer and turn halfway through."
+        },
+        {
+          "method": "oven",
+          "time": "15–18 min",
+          "steps": "Preheat the oven to 200°C. Place on a lined tray, brush lightly with oil and bake, turning halfway, until golden."
+        }
+      ],
+      "benefits": [
+        "Thin, extra-crispy wrapper",
+        "Light vegetable filling",
+        "Cook straight from frozen — no thawing",
+        "Halal certified · No harmful preservatives"
+      ],
+      "storage": "Keep frozen at -18°C or below",
+      "recipes": [
+        {
+          "title": "Spring Rolls with Sweet Chilli Sauce",
+          "time": "15 mins",
+          "servings": "3–4",
+          "summary": "Crisp rolls with a quick homemade sweet chilli dip.",
+          "ingredients": [
+            "10 Antar Vegetable Spring Rolls",
+            "3 tbsp sugar",
+            "3 tbsp rice vinegar",
+            "3 tbsp water",
+            "1 red chilli, finely chopped",
+            "1 garlic clove, grated",
+            "1 tsp cornflour mixed with 1 tbsp water"
+          ],
+          "steps": [
+            "Simmer the sugar, vinegar, water, chilli and garlic for 3 minutes.",
+            "Stir in the cornflour mix and cook until glossy, then cool.",
+            "Fry or air-fry the spring rolls until golden.",
+            "Serve hot with the sauce."
+          ]
+        },
+        {
+          "title": "Spring Roll Lettuce Wraps",
+          "time": "15 mins",
+          "servings": "2",
+          "summary": "A fresh, crunchy way to serve spring rolls.",
+          "ingredients": [
+            "6 Antar Vegetable Spring Rolls",
+            "6 large lettuce leaves",
+            "Mint and coriander leaves",
+            "Cucumber batons",
+            "Sweet chilli sauce"
+          ],
+          "steps": [
+            "Cook the spring rolls until crisp.",
+            "Place each roll on a lettuce leaf with herbs and cucumber.",
+            "Drizzle with sweet chilli sauce, wrap and eat."
+          ]
+        }
+      ],
+      "hacks": [
+        {
+          "title": "Separate before cooking",
+          "body": "If rolls have frozen together, tap the box gently or ease them apart with a butter knife. Don't run them under water."
+        },
+        {
+          "title": "Air-fry for less oil",
+          "body": "A light spray of oil and 10–12 minutes at 180°C gives a crisp shell with much less oil than deep-frying."
+        }
+      ],
+      "whereToBuy": [
+        {
+          "name": "Shinjuku Halal Food",
+          "url": "https://shinjukuhalalfood.com"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is the Vegetable Spring Roll vegetarian?",
+          "answer": "Yes. The filling is made with vegetables and seasoning only."
+        },
+        {
+          "question": "Can I bake them?",
+          "answer": "Yes. Bake at 200°C for 15–18 minutes, brushed lightly with oil and turned halfway."
+        },
+        {
+          "question": "Is it halal?",
+          "answer": "Yes. Every Antar product is halal certified and made without harmful preservatives."
+        }
+      ],
+      "seo": {
+        "title": "Vegetable Spring Roll — Crispy Frozen Spring Rolls | Antar",
+        "description": "Shatter-crisp spring rolls filled with cabbage, carrot and onion. 10 pcs (400g), fry, air-fry or bake from frozen. Halal certified, available in Japan."
+      },
+      "shelfLife": "12 months (frozen)",
+      "ingredients": "Wrapper: wheat flour, water, vegetable oil, salt. Filling: cabbage, carrot, onion, capsicum, spring onion, vegetable oil, cornflour, garlic, ginger, salt, black pepper.",
+      "allergens": "Contains wheat (gluten).",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "230 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "4.6g"
+          },
+          {
+            "label": "Total fat",
+            "value": "10.4g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "29.6g"
+          },
+          {
+            "label": "Sugars",
+            "value": "3.2g"
+          },
+          {
+            "label": "Dietary fibre",
+            "value": "2.4g"
+          },
+          {
+            "label": "Sodium",
+            "value": "410mg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "30bdb5d0-5fb9-5ee8-869f-899f981f9fbd",
+      "slug": "premium-khejur-patali-gur",
+      "order": 6,
+      "published": true,
+      "featured": false,
+      "name": "Premium Khejur Patali Gur",
+      "nameBn": "খেজুর পাটালি গুড়",
+      "category": "Sweeteners",
+      "shortDescription": "Winter's most precious treat — rich date-palm jaggery with deep caramel notes.",
+      "description": "Winter's most precious treat — rich date-palm jaggery with deep caramel notes. Enjoy it on its own, with puffed rice, or in traditional Bangladeshi sweets and payesh.\n\nKhejur patali gur is made by slowly boiling the fresh winter sap of the date palm and setting it into round cakes. It has a smoky, caramel flavour that white sugar simply can't match.",
+      "images": ["/products/khejur_gur.png"],
+      "variants": [
+        {
+          "label": "500g"
+        }
+      ],
+      "tags": ["500g", "Natural sweetener"],
+      "theme": {
+        "c1": "#F6E1D6",
+        "c2": "#E7BFA6",
+        "icon": "gur"
+      },
+      "preparation": [
+        {
+          "method": "ready-to-eat",
+          "steps": "Break off a piece and enjoy it as it is, with puffed rice or after a meal."
+        },
+        {
+          "method": "pan",
+          "time": "3–5 min",
+          "steps": "To use in cooking, chop or grate the gur and melt it gently over low heat with a splash of water or milk."
+        }
+      ],
+      "benefits": [
+        "Made from pure date-palm sap",
+        "Deep, smoky caramel flavour",
+        "A natural, less-refined sweetener",
+        "Halal certified · Export quality"
+      ],
+      "recipes": [
+        {
+          "title": "Nolen Gur Payesh (Rice Pudding)",
+          "time": "60 mins",
+          "servings": "4",
+          "summary": "Bengal's beloved winter dessert — creamy rice pudding sweetened with date-palm jaggery.",
+          "ingredients": [
+            "1 litre whole milk",
+            "1/4 cup fragrant short-grain rice (kalijira or Japanese rice), washed",
+            "120g Antar Premium Khejur Patali Gur, grated",
+            "2 green cardamom pods, lightly crushed",
+            "1 bay leaf",
+            "Chopped pistachios or almonds to garnish"
+          ],
+          "steps": [
+            "Bring the milk to a boil with the cardamom and bay leaf, then add the rice.",
+            "Simmer on low heat, stirring often, for 40–45 minutes until the rice is soft and the milk has thickened.",
+            "Turn off the heat and let it cool for 5 minutes.",
+            "Stir in the grated gur until dissolved — adding it off the heat stops the milk from curdling.",
+            "Garnish with nuts and serve warm or chilled."
+          ]
+        },
+        {
+          "title": "Muri Moa (Puffed Rice & Gur Balls)",
+          "time": "25 mins",
+          "servings": "12 balls",
+          "summary": "Crunchy puffed rice bound with melted patali gur.",
+          "ingredients": [
+            "200g Antar Premium Khejur Patali Gur, chopped",
+            "4 cups Antar Puffed Rice",
+            "2 tbsp water",
+            "1 tsp ghee or oil for your hands"
+          ],
+          "steps": [
+            "Melt the gur with the water over low heat until bubbling and slightly thick.",
+            "Remove from the heat and stir in the puffed rice quickly.",
+            "With greased hands, press into small balls while warm.",
+            "Cool completely and store airtight."
+          ]
+        },
+        {
+          "title": "Gur Cha (Jaggery Milk Tea)",
+          "time": "10 mins",
+          "servings": "2",
+          "summary": "Milk tea sweetened with patali gur for a rich, caramel flavour.",
+          "ingredients": [
+            "1 cup water",
+            "1 cup milk",
+            "2 tsp black tea leaves",
+            "2–3 tbsp grated Antar Patali Gur",
+            "1 crushed cardamom pod (optional)"
+          ],
+          "steps": [
+            "Boil the water with the tea leaves and cardamom for 2 minutes.",
+            "Add the milk and bring back to a simmer.",
+            "Turn off the heat, stir in the gur until dissolved, then strain and serve."
+          ]
+        }
+      ],
+      "hacks": [
+        {
+          "title": "Add gur off the heat",
+          "body": "When sweetening milk, payesh or tea, turn off the heat and let it cool slightly before stirring in the gur. Boiling milk with jaggery can make it curdle."
+        },
+        {
+          "title": "Grate, don't chop",
+          "body": "Patali gur sets firm. A box grater or the back of a knife turns it into fine shavings that melt quickly and evenly."
+        },
+        {
+          "title": "Keep it airtight",
+          "body": "Gur absorbs moisture and can turn sticky. Keep it in an airtight jar, and in humid summers store it in the fridge."
+        }
+      ],
+      "whereToBuy": [
+        {
+          "name": "Shinjuku Halal Food",
+          "url": "https://shinjukuhalalfood.com"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is khejur patali gur?",
+          "answer": "It is jaggery made from the sap of the date palm tree, collected in winter and slowly boiled until it sets into round cakes. It is one of Bangladesh's most treasured seasonal foods."
+        },
+        {
+          "question": "How do I use it instead of sugar?",
+          "answer": "Grate it and use it in tea, desserts, payesh, pitha or baking. It is less sweet than white sugar and adds a caramel, slightly smoky flavour."
+        },
+        {
+          "question": "Why has my gur become soft or sticky?",
+          "answer": "It has absorbed moisture from the air. It is still fine to eat. Keep it in an airtight jar, and in the fridge during humid weather."
+        },
+        {
+          "question": "Is it halal?",
+          "answer": "Yes. Every Antar product is halal certified and made without harmful preservatives."
+        }
+      ],
+      "seo": {
+        "title": "Khejur Patali Gur — Date Palm Jaggery 500g | Antar",
+        "description": "Premium Bangladeshi date-palm jaggery with deep caramel notes. Perfect for payesh, pitha, tea and sweets. 500g jar, halal certified, available in Japan."
+      },
+      "nameJp": "デーツヤシ糖（パタリグル）",
+      "shelfLife": "12 months",
+      "storage": "Store airtight in a cool, dry place",
+      "ingredients": "Date palm sap (khejur rosh).",
+      "allergens": "None of the major allergens.",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "375 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "1.0g"
+          },
+          {
+            "label": "Total fat",
+            "value": "0.2g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "92.0g"
+          },
+          {
+            "label": "Sugars",
+            "value": "85.0g"
+          },
+          {
+            "label": "Sodium",
+            "value": "30mg"
+          },
+          {
+            "label": "Iron",
+            "value": "3.5mg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "99f45563-2840-5151-be67-43c3de4f3594",
+      "slug": "plain-paratha",
+      "order": 7,
+      "published": true,
+      "featured": false,
+      "name": "Plain Paratha",
+      "nameJp": "プレーンパラタ",
+      "category": "Frozen Breads",
+      "shortDescription": "Soft, flaky, layered flatbread — straight from freezer to pan in minutes.",
+      "description": "Soft, flaky, layered flatbread — straight from freezer to pan in minutes. Perfect with curry, eggs or a cup of tea.\n\nEach paratha is folded and layered by hand-style lamination, so it puffs into crisp, buttery-tasting layers as it cooks. No rolling, no mess — just heat and serve.",
+      "images": ["/products/plain_paratha.png"],
+      "variants": [
+        {
+          "label": "5 pcs"
+        }
+      ],
+      "tags": ["5 pcs", "Frozen"],
+      "theme": {
+        "c1": "#FFF6D8",
+        "c2": "#FBE59A",
+        "icon": "wheat"
+      },
+      "preparation": [
+        {
+          "method": "pan",
+          "time": "2–3 min per side",
+          "steps": "Do not thaw. Heat a dry non-stick pan or tawa on medium. Cook the frozen paratha until golden spots appear, then flip and cook the other side. No oil needed."
+        },
+        {
+          "method": "air-fry",
+          "time": "5–6 min",
+          "steps": "Preheat to 180°C. Cook one paratha at a time, turning halfway, until puffed and lightly golden."
+        }
+      ],
+      "benefits": [
+        "Flaky, multi-layered texture",
+        "Ready in about 5 minutes, no oil needed",
+        "Cook straight from frozen",
+        "Halal certified · No harmful preservatives"
+      ],
+      "storage": "Keep frozen at -18°C or below",
+      "recipes": [
+        {
+          "title": "Dim Paratha (Egg Paratha)",
+          "time": "10 mins",
+          "servings": "1",
+          "summary": "A Bangladeshi breakfast favourite — paratha cooked with spiced egg.",
+          "ingredients": [
+            "1 Antar Plain Paratha",
+            "1 egg",
+            "1 tbsp chopped onion",
+            "1 green chilli, chopped",
+            "Chopped coriander",
+            "Pinch of salt"
+          ],
+          "steps": [
+            "Beat the egg with onion, chilli, coriander and salt.",
+            "Cook the paratha from frozen for about 1 minute on each side.",
+            "Pour the egg into the pan and press the paratha on top so the egg sticks to it.",
+            "Cook until the egg is set, flip and cook for 30 seconds more. Serve with tea."
+          ]
+        },
+        {
+          "title": "Paratha Vegetable Roll",
+          "time": "15 mins",
+          "servings": "2",
+          "summary": "A street-style roll filled with spiced vegetables.",
+          "ingredients": [
+            "2 Antar Plain Parathas",
+            "1 cup mixed vegetables (potato, peas, carrot), cooked",
+            "1/2 tsp cumin and 1/2 tsp garam masala",
+            "Sliced onion",
+            "Green chutney or ketchup",
+            "Lemon juice"
+          ],
+          "steps": [
+            "Sauté the vegetables with the spices and a pinch of salt for 3–4 minutes.",
+            "Cook the parathas until golden.",
+            "Spread with chutney, add the vegetables and onion, and squeeze over some lemon.",
+            "Roll up tightly and wrap the bottom in paper to serve."
+          ]
+        }
+      ],
+      "hacks": [
+        {
+          "title": "Scrunch for extra layers",
+          "body": "Right after cooking, hold the hot paratha between two spatulas (or clean, protected hands) and scrunch it gently from the sides. The layers open up and it turns extra flaky."
+        },
+        {
+          "title": "Separate while frozen",
+          "body": "Peel off the film and take parathas out one at a time. Return the rest to the freezer straight away so they don't stick together."
+        }
+      ],
+      "whereToBuy": [
+        {
+          "name": "Shinjuku Halal Food",
+          "url": "https://shinjukuhalalfood.com"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do I need to add oil or butter?",
+          "answer": "No. The paratha already contains oil and cooks well in a dry pan. Add a little butter or ghee at the end if you like a richer taste."
+        },
+        {
+          "question": "Can I cook it from frozen?",
+          "answer": "Yes. Always cook it straight from frozen — thawed parathas become sticky and hard to handle."
+        },
+        {
+          "question": "Is it halal?",
+          "answer": "Yes. Every Antar product is halal certified and made without harmful preservatives."
+        }
+      ],
+      "seo": {
+        "title": "Plain Paratha — Flaky Frozen Flatbread, 5 pcs | Antar",
+        "description": "Soft, flaky, layered paratha ready in minutes from frozen. Perfect with curry, eggs or tea. 5 pcs per pack, halal certified, available in Japan."
+      },
+      "shelfLife": "12 months (frozen)",
+      "ingredients": "Wheat flour, water, vegetable oil, salt, sugar.",
+      "allergens": "Contains wheat (gluten).",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "310 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "7.2g"
+          },
+          {
+            "label": "Total fat",
+            "value": "11.5g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "45.0g"
+          },
+          {
+            "label": "Sugars",
+            "value": "1.8g"
+          },
+          {
+            "label": "Dietary fibre",
+            "value": "1.9g"
+          },
+          {
+            "label": "Sodium",
+            "value": "390mg"
+          }
+        ]
+      }
+    }
+  ]
+}

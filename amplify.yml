@@ -1,0 +1,21 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - nvm use 20 || nvm install 20
+        - npm ci
+    build:
+      commands:
+        # Amplify only exposes env vars at build time; write the server-side ones
+        # to .env.production so the Next.js server (admin) can read them at runtime.
+        - env | grep -E '^(ADMIN_PASSWORD|ADMIN_SESSION_SECRET|GITHUB_TOKEN|GITHUB_REPO|GITHUB_BRANCH|SMTP_HOST|SMTP_PORT|SMTP_USER|SMTP_PASS|SMTP_FROM|CONTACT_TO_EMAIL|NEXT_PUBLIC_SITE_URL)=' >> .env.production || true
+        - npm run build
+  artifacts:
+    baseDirectory: .next
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - .next/cache/**/*
+      - node_modules/**/*

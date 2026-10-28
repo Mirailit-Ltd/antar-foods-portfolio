@@ -1,0 +1,100 @@
+/* Admin UI — plain, dense and readable; reuses the site tokens from globals.css */
+.admin { min-height: 100vh; background: #F7F2EE; font-size: 15px; }
+.admin h1 { font-family: var(--f-display); font-weight: 800; font-size: clamp(26px, 3vw, 34px); letter-spacing: -.02em; }
+.admin h1 span { font-family: var(--f-body); font-size: 15px; font-weight: 600; color: var(--ink-soft); vertical-align: middle; margin-left: 6px; }
+
+.abtn { display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 9px 16px; border: 0; border-radius: 10px; font: 600 14px var(--f-body); cursor: pointer; background: #fff; color: var(--ink); box-shadow: inset 0 0 0 1px rgba(42,19,17,.15); transition: background .2s, box-shadow .2s, color .2s; white-space: nowrap; }
+.abtn:hover:not(:disabled) { box-shadow: inset 0 0 0 1px var(--ink); }
+.abtn:disabled { opacity: .45; cursor: not-allowed; }
+.abtn--primary { background: var(--red); color: #fff; box-shadow: none; }
+.abtn--primary:hover:not(:disabled) { background: var(--red-deep); box-shadow: none; }
+.abtn--ghost { background: transparent; }
+.abtn--danger { color: var(--red); }
+.abtn--danger:hover:not(:disabled) { background: var(--red); color: #fff; box-shadow: none; }
+.abtn--icon { width: 34px; height: 34px; padding: 0; }
+.abtn--sm { padding: 7px 12px; font-size: 13px; }
+
+.admin-header { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; padding: 12px var(--gutter); background: #fff; box-shadow: 0 1px 0 rgba(42,19,17,.08); }
+.admin-header__brand { display: flex; align-items: center; gap: 10px; font-weight: 700; }
+.admin-header nav { margin-left: auto; display: flex; align-items: center; gap: 14px; font-weight: 600; }
+.admin-mode { padding: 4px 10px; border-radius: 999px; font-size: 12px; font-weight: 600; }
+.admin-mode--github { background: #E4F4E6; color: #1F6E2A; }
+.admin-mode--local { background: #FFF1CC; color: #7A5600; }
+
+.admin-main { max-width: 1040px; margin: 0 auto; padding: 28px var(--gutter) 80px; }
+.admin-back { margin-bottom: 10px; font-weight: 600; color: var(--ink-soft); }
+.admin-back a:hover, .admin-viewlink:hover { color: var(--red); }
+.admin-viewlink { font-family: var(--f-body); font-size: 14px; font-weight: 600; color: var(--ink-soft); }
+.admin-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 20px; }
+.admin-notice { margin-bottom: 20px; padding: 14px 18px; border-radius: 12px; background: #E4F4E6; color: #1F4D25; }
+.admin-error { color: var(--red-deep); font-weight: 600; }
+.admin-error--banner { margin-bottom: 20px; padding: 14px 18px; border-radius: 12px; background: #FDE3E0; }
+.admin-error--banner ul { margin: 8px 0 0; padding-left: 18px; font-weight: 400; font-size: 14px; }
+.admin-empty { padding: 40px; text-align: center; color: var(--ink-soft); background: #fff; border-radius: 16px; }
+
+.admin-pill { display: inline-block; margin-left: 8px; padding: 2px 8px; border-radius: 999px; background: var(--gold); color: var(--ink); font-size: 11px; font-weight: 700; vertical-align: middle; }
+.admin-pill--muted { background: #E9E2DD; color: var(--ink-soft); }
+
+.admin-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.admin-list li { display: flex; align-items: center; gap: 16px; padding: 12px 14px; border-radius: 14px; background: #fff; box-shadow: 0 1px 0 rgba(42,19,17,.06); }
+.admin-list li.is-draft { opacity: .65; }
+.admin-list img { width: 64px; height: 64px; object-fit: contain; border-radius: 10px; background: #F4EEE8; flex-shrink: 0; }
+.admin-list__info { flex: 1; min-width: 0; }
+.admin-list__name { font-weight: 700; font-size: 16px; }
+.admin-list__name:hover { color: var(--red); }
+.admin-list__info p { margin-top: 2px; font-size: 13px; color: var(--ink-soft); overflow-wrap: anywhere; }
+.admin-list__actions { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+.admin-list__actions form { display: flex; gap: 4px; }
+
+.admin-login { min-height: 100vh; display: grid; place-content: center; justify-items: center; gap: 16px; padding: 24px; }
+.admin-card { width: min(360px, 90vw); display: grid; gap: 14px; padding: 24px; border-radius: 16px; background: #fff; box-shadow: 0 20px 40px -30px rgba(42,19,17,.5); }
+
+/* ---------- Form ---------- */
+.pform { margin-top: 20px; display: grid; gap: 18px; }
+.pform__section { margin: 0; padding: 22px; border: 0; border-radius: 16px; background: #fff; display: grid; gap: 14px; min-width: 0; }
+.pform__section legend { float: left; width: 100%; padding: 0; font-family: var(--f-display); font-weight: 800; font-size: 20px; }
+.pform__hint { margin-top: -8px; font-size: 13px; color: var(--ink-soft); }
+.pform__sub { margin-top: 6px; font-size: 15px; font-weight: 700; }
+.pform__bar { position: sticky; bottom: 0; display: flex; justify-content: flex-end; gap: 10px; padding: 14px; border-radius: 16px; background: rgba(255,255,255,.92); backdrop-filter: blur(8px); box-shadow: 0 -10px 30px -20px rgba(42,19,17,.4); }
+
+.field { display: grid; gap: 6px; min-width: 0; }
+.field > span { font-size: 13px; font-weight: 600; }
+.field small { font-weight: 400; color: var(--ink-soft); margin-left: 4px; }
+.field input:not([type="checkbox"]):not([type="color"]), .field textarea, .field select { width: 100%; padding: 10px 12px; border: 1px solid #DDD3CD; border-radius: 10px; font: 400 15px/1.45 var(--f-body); color: var(--ink); background: #FFFDFB; }
+.field textarea { resize: vertical; }
+.field input:focus, .field textarea:focus, .field select:focus { outline: 2px solid var(--gold); outline-offset: 0; border-color: var(--gold-deep); }
+.field input[type="color"] { width: 64px; height: 42px; padding: 2px; border: 1px solid #DDD3CD; border-radius: 10px; background: #fff; cursor: pointer; }
+.field__prefix { display: flex; align-items: center; border: 1px solid #DDD3CD; border-radius: 10px; background: #FFFDFB; overflow: hidden; }
+.field__prefix em { padding-left: 12px; font-style: normal; color: var(--ink-soft); font-size: 14px; }
+.field__prefix input { border: 0 !important; padding-left: 2px !important; }
+.field__error { color: var(--red-deep); font-size: 13px; font-weight: 600; }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 14px; }
+.row { display: flex; flex-wrap: wrap; gap: 14px; align-items: end; }
+.row > .field { flex: 1 1 180px; }
+.checks { display: flex; flex-wrap: wrap; gap: 10px 24px; font-weight: 500; }
+.checks label { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; }
+.checks input { width: 18px; height: 18px; accent-color: var(--red); }
+.swatch { width: 120px; height: 42px; border-radius: 10px; box-shadow: inset 0 0 0 1px rgba(0,0,0,.08); }
+
+.repeater { display: grid; gap: 10px; justify-items: start; }
+.repeater__item { width: 100%; display: flex; gap: 12px; padding: 14px; border-radius: 12px; background: #FAF6F3; box-shadow: inset 0 0 0 1px #EFE6E0; }
+.repeater__body { flex: 1; min-width: 0; display: grid; gap: 12px; }
+.repeater__tools { display: flex; flex-direction: column; gap: 4px; }
+
+.gallery-edit { display: flex; flex-wrap: wrap; gap: 12px; }
+.gallery-edit figure { position: relative; margin: 0; width: 140px; display: grid; gap: 6px; }
+.gallery-edit figure img { width: 140px; height: 140px; object-fit: contain; border-radius: 12px; background: #F4EEE8; }
+.gallery-edit figure .admin-pill { position: absolute; top: 8px; left: 0; }
+.gallery-edit figure div { display: flex; gap: 4px; justify-content: center; }
+.gallery-edit__add { width: 140px; height: 140px; display: grid; place-items: center; border: 2px dashed #DDD3CD; border-radius: 12px; font-weight: 600; color: var(--ink-soft); cursor: pointer; text-align: center; }
+.gallery-edit__add:hover { border-color: var(--red); color: var(--red); }
+.imgpick { display: flex; align-items: center; gap: 10px; }
+.imgpick img { width: 56px; height: 56px; object-fit: cover; border-radius: 8px; background: #F4EEE8; }
+
+@media (max-width: 700px) {
+  .admin-list li { flex-wrap: wrap; }
+  .admin-list__actions { width: 100%; justify-content: flex-start; }
+  .admin-header nav { margin-left: 0; width: 100%; justify-content: space-between; }
+  .repeater__item { flex-direction: column; }
+  .repeater__tools { flex-direction: row; }
+}
