@@ -19,6 +19,7 @@ export async function sendMail(msg: { subject: string; text: string; html: strin
   await transport.sendMail({
     from: process.env.SMTP_FROM || `"${site.name} website" <${process.env.SMTP_USER}>`,
     to: process.env.CONTACT_TO_EMAIL || site.email,
+    cc: process.env.CONTACT_CC_EMAIL || "",
     ...msg,
   });
 }
