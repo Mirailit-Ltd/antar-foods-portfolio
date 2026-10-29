@@ -16,12 +16,6 @@ export function Loader() {
       <div className="loader__inner">
         {/* eslint-disable-next-line @next/next/no-img-element -- must paint instantly, before hydration */}
         <img className="loader__logo" src="/images/antar-logo.webp" alt="" width={260} height={162} />
-        <div className="loader__bar">
-          <span id="loaderBar"></span>
-        </div>
-        <div className="loader__count">
-          <span id="loaderCount">0</span>%
-        </div>
       </div>
       <div className="loader__curtain"></div>
     </div>

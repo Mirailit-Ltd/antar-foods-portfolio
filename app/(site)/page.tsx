@@ -502,47 +502,49 @@ export default function HomePage() {
             <span>Made for the table.</span>
           </h2>
         </div>
-        <div className="gallery__grid container">
-          <figure className="gimg gimg--tall" data-cursor="Look">
-            <div className="gimg__inner">
-              <Image
-                src="/images/all_items.jpg"
-                alt="The Antar product lineup on a supermarket display"
-                width={1122}
-                height={1430}
-                sizes="(max-width: 900px) 100vw, 560px"
-              />
-            </div>
-            <figcaption>
-              The full lineup · <span lang="ja">全ラインナップ</span>
-            </figcaption>
-          </figure>
-          <figure className="gimg" data-cursor="Look">
-            <div className="gimg__inner">
-              <Image
-                src="/images/puffed_rice.jpg"
-                alt="Antar Puffed Rice front and back of pack"
-                width={1448}
-                height={1086}
-                sizes="(max-width: 900px) 100vw, 720px"
-              />
-            </div>
-            <figcaption>Puffed Rice · Front &amp; back</figcaption>
-          </figure>
-          <figure className="gimg" data-cursor="Look">
-            <div className="gimg__inner">
-              <Image
-                src="/images/frozen_items.jpg"
-                alt="Antar frozen snacks and patali gur"
-                width={1020}
-                height={583}
-                sizes="(max-width: 900px) 100vw, 720px"
-              />
-            </div>
-            <figcaption>
-              Frozen favourites · <span lang="ja">冷凍スナック</span>
-            </figcaption>
-          </figure>
+        <div className="container">
+          <div className="gallery__grid">
+            <figure className="gimg gimg--tall" data-cursor="Look">
+              <div className="gimg__inner">
+                <Image
+                  src="/images/all_items.webp"
+                  alt="The Antar product lineup on a supermarket display"
+                  width={706}
+                  height={600}
+                  sizes="(max-width: 900px) 100vw, 706px"
+                />
+              </div>
+              <figcaption>
+                The full lineup · <span lang="ja">全ラインナップ</span>
+              </figcaption>
+            </figure>
+            <figure className="gimg" data-cursor="Look">
+              <div className="gimg__inner">
+                <Image
+                  src="/images/puffed_rice.webp"
+                  alt="Antar Puffed Rice front and back of pack"
+                  width={600}
+                  height={300}
+                  sizes="(max-width: 900px) 100vw, 600px"
+                />
+              </div>
+              <figcaption>Puffed Rice · Front &amp; back</figcaption>
+            </figure>
+            <figure className="gimg" data-cursor="Look">
+              <div className="gimg__inner">
+                <Image
+                  src="/images/frozen_items.webp"
+                  alt="Antar frozen snacks and patali gur"
+                  width={600}
+                  height={240}
+                  sizes="(max-width: 900px) 100vw, 600px"
+                />
+              </div>
+              <figcaption>
+                Frozen favourites · <span lang="ja">冷凍スナック</span>
+              </figcaption>
+            </figure>
+          </div>
         </div>
       </section>
 
