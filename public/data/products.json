@@ -1,9 +1,184 @@
 {
   "products": [
     {
+      "id": "71a4f7d9-8ffe-5822-af52-2431d12ba61b",
+      "slug": "punjabi-aloo-samosa",
+      "order": 1,
+      "published": true,
+      "featured": false,
+      "name": "Punjabi Aloo Samosa",
+      "nameJp": "パンジャビアルーサモサ",
+      "category": "Frozen Snacks",
+      "badge": "Hot & Spicy",
+      "shortDescription": "Flaky golden pastry packed with spiced potato and a fiery chilli kick.",
+      "description": "Flaky golden pastry packed with spiced potato and a fiery chilli kick. A Punjabi-style samosa made for those who like their snacks hot.\n\nEach box holds 10 generous samosas, ready to fry straight from the freezer — perfect for iftar, parties or an evening snack with chai.",
+      "images": [
+        "/products/punjabi_aloo_samosa.png"
+      ],
+      "variants": [
+        {
+          "label": "10 pcs · 750g"
+        }
+      ],
+      "tags": [
+        "10 pcs",
+        "750g",
+        "Frozen"
+      ],
+      "theme": {
+        "c1": "#FFE4D6",
+        "c2": "#FFC9A8",
+        "icon": "chili"
+      },
+      "preparation": [
+        {
+          "method": "deep-fry",
+          "time": "5–6 min",
+          "steps": "Do not thaw. Heat oil to 170–175°C and fry from frozen, turning once, until deep golden and crisp. Drain on kitchen paper."
+        },
+        {
+          "method": "air-fry",
+          "time": "12–14 min",
+          "steps": "Preheat the air fryer to 180°C. Lightly brush or spray with oil, cook in a single layer and turn halfway through."
+        },
+        {
+          "method": "oven",
+          "time": "18–20 min",
+          "steps": "Preheat the oven to 200°C. Place on a lined tray, brush lightly with oil and bake, turning halfway, until golden."
+        }
+      ],
+      "benefits": [
+        "Bold Punjabi-style spice with a chilli kick",
+        "Generous, hearty potato filling",
+        "Cook straight from frozen — no thawing",
+        "Halal certified · No harmful preservatives"
+      ],
+      "shelfLife": "12 months (frozen)",
+      "storage": "Keep frozen at -18°C or below",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "265 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "5.2g"
+          },
+          {
+            "label": "Total fat",
+            "value": "12.8g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "32.5g"
+          },
+          {
+            "label": "Sugars",
+            "value": "2.1g"
+          },
+          {
+            "label": "Dietary fibre",
+            "value": "2.8g"
+          },
+          {
+            "label": "Sodium",
+            "value": "480mg"
+          }
+        ]
+      },
+      "ingredients": "Pastry: wheat flour, vegetable oil, salt, carom seeds (ajwain). Filling: potato, onion, green chilli, coriander leaves, ginger, vegetable oil, salt, spices (cumin, coriander, red chilli, garam masala), dried mango powder.",
+      "allergens": "Contains wheat (gluten).",
+      "recipes": [
+        {
+          "title": "Samosa Chaat",
+          "time": "15 mins",
+          "servings": "2–3",
+          "summary": "Crushed samosas loaded with chickpeas, yogurt and chutneys — a street-food favourite.",
+          "ingredients": [
+            "4 Antar Punjabi Aloo Samosas",
+            "1 cup cooked chickpeas, warmed",
+            "1/2 cup plain yogurt, whisked",
+            "3 tbsp tamarind chutney",
+            "2 tbsp green chutney",
+            "1 small onion, finely chopped",
+            "Chaat masala, red chilli powder and coriander"
+          ],
+          "steps": [
+            "Fry or air-fry the samosas until crisp.",
+            "Break them roughly onto a plate and top with the warm chickpeas.",
+            "Spoon over yogurt, then drizzle both chutneys.",
+            "Finish with onion, chaat masala, chilli powder and coriander. Serve straight away."
+          ]
+        },
+        {
+          "title": "Samosa Pav",
+          "time": "15 mins",
+          "servings": "4",
+          "summary": "Mumbai-style samosa sandwich in a soft bun with spicy chutney.",
+          "ingredients": [
+            "4 Antar Punjabi Aloo Samosas",
+            "4 soft burger buns or pav",
+            "Green chutney",
+            "Tamarind chutney",
+            "Sliced onion"
+          ],
+          "steps": [
+            "Cook the samosas until golden.",
+            "Slice the buns, spread one side with green chutney and the other with tamarind chutney.",
+            "Press a hot samosa inside, add onion and close.",
+            "Serve warm with a cup of tea."
+          ]
+        }
+      ],
+      "hacks": [
+        {
+          "title": "Never thaw before frying",
+          "body": "Frying from frozen keeps the pastry flaky and stops the filling leaking. Thawed samosas soak up oil and go soggy."
+        },
+        {
+          "title": "Don't crowd the pan",
+          "body": "Fry 4–5 at a time so the oil stays hot. Too many at once drops the temperature and makes them greasy."
+        },
+        {
+          "title": "Too spicy? Add yogurt",
+          "body": "Serve with a bowl of cool yogurt raita or a sweet tamarind chutney to balance the chilli heat."
+        }
+      ],
+      "whereToBuy": [
+        {
+          "name": "Shinjuku Halal Food",
+          "url": "https://shinjukuhalalfood.com"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How spicy is the Punjabi Aloo Samosa?",
+          "answer": "It is our hottest samosa, with a noticeable green-chilli kick. For a milder taste, try the Antar Vegetable Samosa."
+        },
+        {
+          "question": "Can I cook it without deep-frying?",
+          "answer": "Yes. It crisps up well in an air fryer at 180°C for 12–14 minutes or in the oven at 200°C for 18–20 minutes with a light brush of oil."
+        },
+        {
+          "question": "Is it vegetarian?",
+          "answer": "Yes. The filling is potato, onion and spices, with no meat."
+        },
+        {
+          "question": "Is it halal?",
+          "answer": "Yes. Every Antar product is halal certified and made without harmful preservatives."
+        }
+      ],
+      "seo": {
+        "title": "Punjabi Aloo Samosa — Hot & Spicy Frozen Samosa | Antar",
+        "description": "Flaky pastry with a spicy potato filling. 10 frozen Punjabi aloo samosas (750g), ready to fry, air-fry or bake. Halal certified, available in Japan."
+      }
+    },
+    {
       "id": "e472afd4-6cc1-5f19-b6bc-b911c040b1c7",
       "slug": "puffed-rice",
-      "order": 1,
+      "order": 2,
       "published": true,
       "featured": true,
       "name": "Puffed Rice",
@@ -12,7 +187,9 @@
       "category": "Snacks",
       "shortDescription": "Light, airy and crunchy — naturally puffed long-grain brown rice with just a pinch of salt.",
       "description": "Just two ingredients: natural long-grain brown rice and salt. Puffed to a perfect crunch and ready for jhal muri, chaat or straight from the bag.\n\nA staple of Bangladeshi tea time, Antar Puffed Rice is naturally puffed — never fried — so it stays light while keeping the toasty flavour of the grain.",
-      "images": ["/products/puffed_rice.png"],
+      "images": [
+        "/products/puffed_rice.png"
+      ],
       "variants": [
         {
           "label": "200g",
@@ -23,7 +200,11 @@
           "image": "/products/puffed-rice-400.webp"
         }
       ],
-      "tags": ["200g", "400g", "Snack"],
+      "tags": [
+        "200g",
+        "400g",
+        "Snack"
+      ],
       "theme": {
         "c1": "#FFE9E4",
         "c2": "#FFD2C7",
@@ -46,6 +227,7 @@
         "Light, low-fat snack",
         "Halal certified · Export quality"
       ],
+      "shelfLife": "6 months (unopened)",
       "storage": "Store in a cool, dry place. Reseal after opening.",
       "nutrition": {
         "basis": "Average quantities per 100g",
@@ -69,6 +251,7 @@
         ]
       },
       "ingredients": "Long-grain brown rice, salt.",
+      "allergens": "None of the major allergens. Packed in a facility that also handles wheat.",
       "recipes": [
         {
           "title": "Classic Jhal Muri",
@@ -174,177 +357,6 @@
       "seo": {
         "title": "Antar Puffed Rice (Muri) — Halal Bangladeshi Snack in Japan",
         "description": "Naturally puffed long-grain brown rice with just a pinch of salt. Never fried, perfect for jhal muri and chaat. 200g & 400g packs, halal certified."
-      },
-      "shelfLife": "6 months (unopened)",
-      "allergens": "None of the major allergens. Packed in a facility that also handles wheat."
-    },
-    {
-      "id": "71a4f7d9-8ffe-5822-af52-2431d12ba61b",
-      "slug": "punjabi-aloo-samosa",
-      "order": 2,
-      "published": true,
-      "featured": false,
-      "name": "Punjabi Aloo Samosa",
-      "nameJp": "パンジャビアルーサモサ",
-      "category": "Frozen Snacks",
-      "badge": "Hot & Spicy",
-      "shortDescription": "Flaky golden pastry packed with spiced potato and a fiery chilli kick.",
-      "description": "Flaky golden pastry packed with spiced potato and a fiery chilli kick. A Punjabi-style samosa made for those who like their snacks hot.\n\nEach box holds 10 generous samosas, ready to fry straight from the freezer — perfect for iftar, parties or an evening snack with chai.",
-      "images": ["/products/punjabi_aloo_samosa.png"],
-      "variants": [
-        {
-          "label": "10 pcs · 750g"
-        }
-      ],
-      "tags": ["10 pcs", "750g", "Frozen"],
-      "theme": {
-        "c1": "#FFE4D6",
-        "c2": "#FFC9A8",
-        "icon": "chili"
-      },
-      "preparation": [
-        {
-          "method": "deep-fry",
-          "time": "5–6 min",
-          "steps": "Do not thaw. Heat oil to 170–175°C and fry from frozen, turning once, until deep golden and crisp. Drain on kitchen paper."
-        },
-        {
-          "method": "air-fry",
-          "time": "12–14 min",
-          "steps": "Preheat the air fryer to 180°C. Lightly brush or spray with oil, cook in a single layer and turn halfway through."
-        },
-        {
-          "method": "oven",
-          "time": "18–20 min",
-          "steps": "Preheat the oven to 200°C. Place on a lined tray, brush lightly with oil and bake, turning halfway, until golden."
-        }
-      ],
-      "benefits": [
-        "Bold Punjabi-style spice with a chilli kick",
-        "Generous, hearty potato filling",
-        "Cook straight from frozen — no thawing",
-        "Halal certified · No harmful preservatives"
-      ],
-      "storage": "Keep frozen at -18°C or below",
-      "recipes": [
-        {
-          "title": "Samosa Chaat",
-          "time": "15 mins",
-          "servings": "2–3",
-          "summary": "Crushed samosas loaded with chickpeas, yogurt and chutneys — a street-food favourite.",
-          "ingredients": [
-            "4 Antar Punjabi Aloo Samosas",
-            "1 cup cooked chickpeas, warmed",
-            "1/2 cup plain yogurt, whisked",
-            "3 tbsp tamarind chutney",
-            "2 tbsp green chutney",
-            "1 small onion, finely chopped",
-            "Chaat masala, red chilli powder and coriander"
-          ],
-          "steps": [
-            "Fry or air-fry the samosas until crisp.",
-            "Break them roughly onto a plate and top with the warm chickpeas.",
-            "Spoon over yogurt, then drizzle both chutneys.",
-            "Finish with onion, chaat masala, chilli powder and coriander. Serve straight away."
-          ]
-        },
-        {
-          "title": "Samosa Pav",
-          "time": "15 mins",
-          "servings": "4",
-          "summary": "Mumbai-style samosa sandwich in a soft bun with spicy chutney.",
-          "ingredients": [
-            "4 Antar Punjabi Aloo Samosas",
-            "4 soft burger buns or pav",
-            "Green chutney",
-            "Tamarind chutney",
-            "Sliced onion"
-          ],
-          "steps": [
-            "Cook the samosas until golden.",
-            "Slice the buns, spread one side with green chutney and the other with tamarind chutney.",
-            "Press a hot samosa inside, add onion and close.",
-            "Serve warm with a cup of tea."
-          ]
-        }
-      ],
-      "hacks": [
-        {
-          "title": "Never thaw before frying",
-          "body": "Frying from frozen keeps the pastry flaky and stops the filling leaking. Thawed samosas soak up oil and go soggy."
-        },
-        {
-          "title": "Don't crowd the pan",
-          "body": "Fry 4–5 at a time so the oil stays hot. Too many at once drops the temperature and makes them greasy."
-        },
-        {
-          "title": "Too spicy? Add yogurt",
-          "body": "Serve with a bowl of cool yogurt raita or a sweet tamarind chutney to balance the chilli heat."
-        }
-      ],
-      "whereToBuy": [
-        {
-          "name": "Shinjuku Halal Food",
-          "url": "https://shinjukuhalalfood.com"
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How spicy is the Punjabi Aloo Samosa?",
-          "answer": "It is our hottest samosa, with a noticeable green-chilli kick. For a milder taste, try the Antar Vegetable Samosa."
-        },
-        {
-          "question": "Can I cook it without deep-frying?",
-          "answer": "Yes. It crisps up well in an air fryer at 180°C for 12–14 minutes or in the oven at 200°C for 18–20 minutes with a light brush of oil."
-        },
-        {
-          "question": "Is it vegetarian?",
-          "answer": "Yes. The filling is potato, onion and spices, with no meat."
-        },
-        {
-          "question": "Is it halal?",
-          "answer": "Yes. Every Antar product is halal certified and made without harmful preservatives."
-        }
-      ],
-      "seo": {
-        "title": "Punjabi Aloo Samosa — Hot & Spicy Frozen Samosa | Antar",
-        "description": "Flaky pastry with a spicy potato filling. 10 frozen Punjabi aloo samosas (750g), ready to fry, air-fry or bake. Halal certified, available in Japan."
-      },
-      "shelfLife": "12 months (frozen)",
-      "ingredients": "Pastry: wheat flour, vegetable oil, salt, carom seeds (ajwain). Filling: potato, onion, green chilli, coriander leaves, ginger, vegetable oil, salt, spices (cumin, coriander, red chilli, garam masala), dried mango powder.",
-      "allergens": "Contains wheat (gluten).",
-      "nutrition": {
-        "basis": "Typical values per 100g",
-        "rows": [
-          {
-            "label": "Energy",
-            "value": "265 kcal"
-          },
-          {
-            "label": "Protein",
-            "value": "5.2g"
-          },
-          {
-            "label": "Total fat",
-            "value": "12.8g"
-          },
-          {
-            "label": "Carbohydrate",
-            "value": "32.5g"
-          },
-          {
-            "label": "Sugars",
-            "value": "2.1g"
-          },
-          {
-            "label": "Dietary fibre",
-            "value": "2.8g"
-          },
-          {
-            "label": "Sodium",
-            "value": "480mg"
-          }
-        ]
       }
     },
     {
@@ -358,13 +370,19 @@
       "category": "Frozen Snacks",
       "shortDescription": "Crisp triangles filled with garden vegetables and warm, gentle spices.",
       "description": "Crisp triangles filled with garden vegetables and warm, gentle spices — a mild, crowd-pleasing samosa for the whole family.\n\nPotato, green peas and carrot are folded into a thin, crunchy pastry, so every bite is light and golden. Ready in minutes from the freezer.",
-      "images": ["/products/vegetable_samosa.png"],
+      "images": [
+        "/products/vegetable_samosa.png"
+      ],
       "variants": [
         {
           "label": "10 pcs · 400g"
         }
       ],
-      "tags": ["10 pcs", "400g", "Frozen"],
+      "tags": [
+        "10 pcs",
+        "400g",
+        "Frozen"
+      ],
       "theme": {
         "c1": "#FFF0D9",
         "c2": "#FFDFA6",
@@ -393,7 +411,43 @@
         "Cook straight from frozen — no thawing",
         "Halal certified · No harmful preservatives"
       ],
+      "shelfLife": "12 months (frozen)",
       "storage": "Keep frozen at -18°C or below",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "248 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "5.0g"
+          },
+          {
+            "label": "Total fat",
+            "value": "11.2g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "31.4g"
+          },
+          {
+            "label": "Sugars",
+            "value": "2.6g"
+          },
+          {
+            "label": "Dietary fibre",
+            "value": "3.1g"
+          },
+          {
+            "label": "Sodium",
+            "value": "420mg"
+          }
+        ]
+      },
+      "ingredients": "Pastry: wheat flour, vegetable oil, salt. Filling: potato, green peas, carrot, onion, vegetable oil, coriander leaves, ginger, salt, spices (cumin, coriander, turmeric, garam masala).",
+      "allergens": "Contains wheat (gluten).",
       "recipes": [
         {
           "title": "Samosa with Mint-Coriander Chutney",
@@ -473,42 +527,6 @@
       "seo": {
         "title": "Vegetable Samosa — Mild Frozen Samosa, 10 pcs | Antar",
         "description": "Crisp samosas filled with potato, peas and carrot. Mildly spiced and family friendly. 10 pcs (400g), cook from frozen. Halal certified, available in Japan."
-      },
-      "shelfLife": "12 months (frozen)",
-      "ingredients": "Pastry: wheat flour, vegetable oil, salt. Filling: potato, green peas, carrot, onion, vegetable oil, coriander leaves, ginger, salt, spices (cumin, coriander, turmeric, garam masala).",
-      "allergens": "Contains wheat (gluten).",
-      "nutrition": {
-        "basis": "Typical values per 100g",
-        "rows": [
-          {
-            "label": "Energy",
-            "value": "248 kcal"
-          },
-          {
-            "label": "Protein",
-            "value": "5.0g"
-          },
-          {
-            "label": "Total fat",
-            "value": "11.2g"
-          },
-          {
-            "label": "Carbohydrate",
-            "value": "31.4g"
-          },
-          {
-            "label": "Sugars",
-            "value": "2.6g"
-          },
-          {
-            "label": "Dietary fibre",
-            "value": "3.1g"
-          },
-          {
-            "label": "Sodium",
-            "value": "420mg"
-          }
-        ]
       }
     },
     {
@@ -523,13 +541,19 @@
       "category": "Frozen Snacks",
       "shortDescription": "Bengal's favourite tea-time bite — a hand-folded, crunchy shell with a hearty veg filling.",
       "description": "Bengal's favourite tea-time bite — a hand-folded, crunchy shell with a hearty vegetable filling, just like the ones from the corner tea stall back home.\n\nSingara has a thicker, crunchier crust than a samosa and a soft, spiced potato filling. Fry it from frozen and serve with hot tea.",
-      "images": ["/products/vegetable_singara.png"],
+      "images": [
+        "/products/vegetable_singara.png"
+      ],
       "variants": [
         {
           "label": "10 pcs · 300g"
         }
       ],
-      "tags": ["10 pcs", "300g", "Frozen"],
+      "tags": [
+        "10 pcs",
+        "300g",
+        "Frozen"
+      ],
       "theme": {
         "c1": "#FFEFE0",
         "c2": "#F9D3B0",
@@ -558,7 +582,43 @@
         "Cook straight from frozen — no thawing",
         "Halal certified · No harmful preservatives"
       ],
+      "shelfLife": "12 months (frozen)",
       "storage": "Keep frozen at -18°C or below",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "272 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "5.4g"
+          },
+          {
+            "label": "Total fat",
+            "value": "13.5g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "32.8g"
+          },
+          {
+            "label": "Sugars",
+            "value": "1.9g"
+          },
+          {
+            "label": "Dietary fibre",
+            "value": "2.9g"
+          },
+          {
+            "label": "Sodium",
+            "value": "450mg"
+          }
+        ]
+      },
+      "ingredients": "Pastry: wheat flour, vegetable oil, salt, nigella seeds (kalonji). Filling: potato, green peas, onion, vegetable oil, green chilli, coriander leaves, salt, spices (cumin, turmeric, red chilli, panch phoron).",
+      "allergens": "Contains wheat (gluten).",
       "recipes": [
         {
           "title": "Singara with Tamarind Chutney",
@@ -633,42 +693,6 @@
       "seo": {
         "title": "Vegetable Singara — Bengali Tea-Time Snack, Frozen | Antar",
         "description": "Authentic Bangladeshi singara with a crunchy hand-folded crust and spiced vegetable filling. 10 pcs (300g), cook from frozen. Halal certified, in Japan."
-      },
-      "shelfLife": "12 months (frozen)",
-      "ingredients": "Pastry: wheat flour, vegetable oil, salt, nigella seeds (kalonji). Filling: potato, green peas, onion, vegetable oil, green chilli, coriander leaves, salt, spices (cumin, turmeric, red chilli, panch phoron).",
-      "allergens": "Contains wheat (gluten).",
-      "nutrition": {
-        "basis": "Typical values per 100g",
-        "rows": [
-          {
-            "label": "Energy",
-            "value": "272 kcal"
-          },
-          {
-            "label": "Protein",
-            "value": "5.4g"
-          },
-          {
-            "label": "Total fat",
-            "value": "13.5g"
-          },
-          {
-            "label": "Carbohydrate",
-            "value": "32.8g"
-          },
-          {
-            "label": "Sugars",
-            "value": "1.9g"
-          },
-          {
-            "label": "Dietary fibre",
-            "value": "2.9g"
-          },
-          {
-            "label": "Sodium",
-            "value": "450mg"
-          }
-        ]
       }
     },
     {
@@ -682,13 +706,19 @@
       "category": "Frozen Snacks",
       "shortDescription": "Golden, shatter-crisp rolls stuffed with fresh vegetables. Fry, dip, repeat.",
       "description": "Golden, shatter-crisp rolls stuffed with fresh vegetables. Fry, dip, repeat.\n\nThin wrappers are rolled around a lightly seasoned filling of cabbage, carrot and onion, so they turn crisp and golden in minutes — ideal for parties, lunchboxes and iftar.",
-      "images": ["/products/vegetable_spring_roll.png"],
+      "images": [
+        "/products/vegetable_spring_roll.png"
+      ],
       "variants": [
         {
           "label": "10 pcs · 400g"
         }
       ],
-      "tags": ["10 pcs", "400g", "Frozen"],
+      "tags": [
+        "10 pcs",
+        "400g",
+        "Frozen"
+      ],
       "theme": {
         "c1": "#EAF5E2",
         "c2": "#CFE9BD",
@@ -717,7 +747,43 @@
         "Cook straight from frozen — no thawing",
         "Halal certified · No harmful preservatives"
       ],
+      "shelfLife": "12 months (frozen)",
       "storage": "Keep frozen at -18°C or below",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "230 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "4.6g"
+          },
+          {
+            "label": "Total fat",
+            "value": "10.4g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "29.6g"
+          },
+          {
+            "label": "Sugars",
+            "value": "3.2g"
+          },
+          {
+            "label": "Dietary fibre",
+            "value": "2.4g"
+          },
+          {
+            "label": "Sodium",
+            "value": "410mg"
+          }
+        ]
+      },
+      "ingredients": "Wrapper: wheat flour, water, vegetable oil, salt. Filling: cabbage, carrot, onion, capsicum, spring onion, vegetable oil, cornflour, garlic, ginger, salt, black pepper.",
+      "allergens": "Contains wheat (gluten).",
       "recipes": [
         {
           "title": "Spring Rolls with Sweet Chilli Sauce",
@@ -792,42 +858,6 @@
       "seo": {
         "title": "Vegetable Spring Roll — Crispy Frozen Spring Rolls | Antar",
         "description": "Shatter-crisp spring rolls filled with cabbage, carrot and onion. 10 pcs (400g), fry, air-fry or bake from frozen. Halal certified, available in Japan."
-      },
-      "shelfLife": "12 months (frozen)",
-      "ingredients": "Wrapper: wheat flour, water, vegetable oil, salt. Filling: cabbage, carrot, onion, capsicum, spring onion, vegetable oil, cornflour, garlic, ginger, salt, black pepper.",
-      "allergens": "Contains wheat (gluten).",
-      "nutrition": {
-        "basis": "Typical values per 100g",
-        "rows": [
-          {
-            "label": "Energy",
-            "value": "230 kcal"
-          },
-          {
-            "label": "Protein",
-            "value": "4.6g"
-          },
-          {
-            "label": "Total fat",
-            "value": "10.4g"
-          },
-          {
-            "label": "Carbohydrate",
-            "value": "29.6g"
-          },
-          {
-            "label": "Sugars",
-            "value": "3.2g"
-          },
-          {
-            "label": "Dietary fibre",
-            "value": "2.4g"
-          },
-          {
-            "label": "Sodium",
-            "value": "410mg"
-          }
-        ]
       }
     },
     {
@@ -837,17 +867,23 @@
       "published": true,
       "featured": false,
       "name": "Premium Khejur Patali Gur",
+      "nameJp": "デーツヤシ糖（パタリグル）",
       "nameBn": "খেজুর পাটালি গুড়",
       "category": "Sweeteners",
       "shortDescription": "Winter's most precious treat — rich date-palm jaggery with deep caramel notes.",
       "description": "Winter's most precious treat — rich date-palm jaggery with deep caramel notes. Enjoy it on its own, with puffed rice, or in traditional Bangladeshi sweets and payesh.\n\nKhejur patali gur is made by slowly boiling the fresh winter sap of the date palm and setting it into round cakes. It has a smoky, caramel flavour that white sugar simply can't match.",
-      "images": ["/products/khejur_gur.png"],
+      "images": [
+        "/products/khejur_gur.png"
+      ],
       "variants": [
         {
           "label": "500g"
         }
       ],
-      "tags": ["500g", "Natural sweetener"],
+      "tags": [
+        "500g",
+        "Natural sweetener"
+      ],
       "theme": {
         "c1": "#F6E1D6",
         "c2": "#E7BFA6",
@@ -870,6 +906,43 @@
         "A natural, less-refined sweetener",
         "Halal certified · Export quality"
       ],
+      "shelfLife": "12 months",
+      "storage": "Store airtight in a cool, dry place",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "375 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "1.0g"
+          },
+          {
+            "label": "Total fat",
+            "value": "0.2g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "92.0g"
+          },
+          {
+            "label": "Sugars",
+            "value": "85.0g"
+          },
+          {
+            "label": "Sodium",
+            "value": "30mg"
+          },
+          {
+            "label": "Iron",
+            "value": "3.5mg"
+          }
+        ]
+      },
+      "ingredients": "Date palm sap (khejur rosh).",
+      "allergens": "None of the major allergens.",
       "recipes": [
         {
           "title": "Nolen Gur Payesh (Rice Pudding)",
@@ -970,44 +1043,6 @@
       "seo": {
         "title": "Khejur Patali Gur — Date Palm Jaggery 500g | Antar",
         "description": "Premium Bangladeshi date-palm jaggery with deep caramel notes. Perfect for payesh, pitha, tea and sweets. 500g jar, halal certified, available in Japan."
-      },
-      "nameJp": "デーツヤシ糖（パタリグル）",
-      "shelfLife": "12 months",
-      "storage": "Store airtight in a cool, dry place",
-      "ingredients": "Date palm sap (khejur rosh).",
-      "allergens": "None of the major allergens.",
-      "nutrition": {
-        "basis": "Typical values per 100g",
-        "rows": [
-          {
-            "label": "Energy",
-            "value": "375 kcal"
-          },
-          {
-            "label": "Protein",
-            "value": "1.0g"
-          },
-          {
-            "label": "Total fat",
-            "value": "0.2g"
-          },
-          {
-            "label": "Carbohydrate",
-            "value": "92.0g"
-          },
-          {
-            "label": "Sugars",
-            "value": "85.0g"
-          },
-          {
-            "label": "Sodium",
-            "value": "30mg"
-          },
-          {
-            "label": "Iron",
-            "value": "3.5mg"
-          }
-        ]
       }
     },
     {
@@ -1021,13 +1056,18 @@
       "category": "Frozen Breads",
       "shortDescription": "Soft, flaky, layered flatbread — straight from freezer to pan in minutes.",
       "description": "Soft, flaky, layered flatbread — straight from freezer to pan in minutes. Perfect with curry, eggs or a cup of tea.\n\nEach paratha is folded and layered by hand-style lamination, so it puffs into crisp, buttery-tasting layers as it cooks. No rolling, no mess — just heat and serve.",
-      "images": ["/products/plain_paratha.png"],
+      "images": [
+        "/products/plain_paratha.png"
+      ],
       "variants": [
         {
           "label": "5 pcs"
         }
       ],
-      "tags": ["5 pcs", "Frozen"],
+      "tags": [
+        "5 pcs",
+        "Frozen"
+      ],
       "theme": {
         "c1": "#FFF6D8",
         "c2": "#FBE59A",
@@ -1051,7 +1091,43 @@
         "Cook straight from frozen",
         "Halal certified · No harmful preservatives"
       ],
+      "shelfLife": "12 months (frozen)",
       "storage": "Keep frozen at -18°C or below",
+      "nutrition": {
+        "basis": "Typical values per 100g",
+        "rows": [
+          {
+            "label": "Energy",
+            "value": "310 kcal"
+          },
+          {
+            "label": "Protein",
+            "value": "7.2g"
+          },
+          {
+            "label": "Total fat",
+            "value": "11.5g"
+          },
+          {
+            "label": "Carbohydrate",
+            "value": "45.0g"
+          },
+          {
+            "label": "Sugars",
+            "value": "1.8g"
+          },
+          {
+            "label": "Dietary fibre",
+            "value": "1.9g"
+          },
+          {
+            "label": "Sodium",
+            "value": "390mg"
+          }
+        ]
+      },
+      "ingredients": "Wheat flour, water, vegetable oil, salt, sugar.",
+      "allergens": "Contains wheat (gluten).",
       "recipes": [
         {
           "title": "Dim Paratha (Egg Paratha)",
@@ -1127,42 +1203,6 @@
       "seo": {
         "title": "Plain Paratha — Flaky Frozen Flatbread, 5 pcs | Antar",
         "description": "Soft, flaky, layered paratha ready in minutes from frozen. Perfect with curry, eggs or tea. 5 pcs per pack, halal certified, available in Japan."
-      },
-      "shelfLife": "12 months (frozen)",
-      "ingredients": "Wheat flour, water, vegetable oil, salt, sugar.",
-      "allergens": "Contains wheat (gluten).",
-      "nutrition": {
-        "basis": "Typical values per 100g",
-        "rows": [
-          {
-            "label": "Energy",
-            "value": "310 kcal"
-          },
-          {
-            "label": "Protein",
-            "value": "7.2g"
-          },
-          {
-            "label": "Total fat",
-            "value": "11.5g"
-          },
-          {
-            "label": "Carbohydrate",
-            "value": "45.0g"
-          },
-          {
-            "label": "Sugars",
-            "value": "1.8g"
-          },
-          {
-            "label": "Dietary fibre",
-            "value": "1.9g"
-          },
-          {
-            "label": "Sodium",
-            "value": "390mg"
-          }
-        ]
       }
     }
   ]
