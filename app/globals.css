@@ -1828,9 +1828,10 @@ svg {
 }
 .pgallery__main img {
   object-fit: contain;
-  padding: 0%;
+  /* Breathing room between the pack and the card edge */
+  padding: clamp(16px, 4%, 36px);
   opacity: 0;
-  transform: scale(1.5);
+  transform: scale(1.25);
   transition:
     opacity 0.5s var(--ease),
     transform 0.7s var(--ease);
@@ -1838,7 +1839,7 @@ svg {
 /* Slight zoom trims the transparent margin most pack shots have; the frame clips any overflow */
 .pgallery__main img.is-active {
   opacity: 1;
-  transform: scale(1.2);
+  transform: scale(1);
 }
 .pgallery__main:focus-visible {
   outline: 3px solid var(--gold);
