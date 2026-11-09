@@ -23,14 +23,6 @@ The public pages are pre-rendered at build time from `products.json`. That keeps
 
 Amplify's servers can't keep files written at runtime, which is why production saves go through Git.
 
-## Run locally
-
-```bash
-cp .env.example .env.local   # then set ADMIN_PASSWORD and ADMIN_SESSION_SECRET
-npm install
-npm run dev
-```
-
 Open http://localhost:3000. The admin is at http://localhost:3000/admin.
 
 ## Deploy on AWS Amplify
