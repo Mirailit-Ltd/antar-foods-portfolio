@@ -16,14 +16,17 @@ const DATA_PATH = "public/data/products.json";
 export type Upload = { path: string; data: Buffer }; // path relative to the repo root, e.g. public/products/x.webp
 export type Mutation = { catalog: Catalog; uploads?: Upload[]; deletes?: string[] };
 
+// Hosting dashboards (e.g. Vercel) keep quotes pasted from a .env file as part of the value
+const env = (name: string) => process.env[name]?.trim().replace(/^(["'])(.*)\1$/, "$2").trim() || undefined;
+
 const github = () => {
-  const token = process.env.GITHUB_TOKEN;
+  const token = env("GITHUB_TOKEN");
   // Accept "owner/repo" or a pasted URL like https://github.com/owner/repo.git
-  const repo = process.env.GITHUB_REPO?.trim()
-    .replace(/^(https?:\/\/)?(www\.)?github\.com\//, "")
+  const repo = env("GITHUB_REPO")
+    ?.replace(/^(https?:\/\/)?(www\.)?github\.com\//, "")
     .replace(/\.git$/, "")
     .replace(/\/+$/, "");
-  return token && repo ? { token, repo, branch: process.env.GITHUB_BRANCH || "main" } : null;
+  return token && repo ? { token, repo, branch: env("GITHUB_BRANCH") || "main" } : null;
 };
 
 export const storageMode = (): "github" | "local" => (github() ? "github" : "local");
